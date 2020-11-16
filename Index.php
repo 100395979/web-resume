@@ -1,6 +1,6 @@
 <?php
 
-include_once("Index.html , Rsume.html");
+include_once("Index.html");
 
 ?>
 
